@@ -1,0 +1,17 @@
+* SPC
+** SPC
+   Runs the command helm-M-x
+** TAB
+   Switch back and forth between current and last buffer in the current window.
+** !
+   Runs the command shell-command
+** * 
+   Search in current project
+** /
+   Search in current project
+** 0,1,...,9
+   Select window 
+** ;
+   Runs the command comment operator
+** `
+   Select window by window number
